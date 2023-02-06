@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newPong1DManager</string>
+    <string name="btn_to_score">Score</string>
+    <string name="btn_to_config">Config</string>
+</resources>
